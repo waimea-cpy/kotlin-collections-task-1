@@ -160,7 +160,8 @@ fun monkeyCounter(monkeyList: List<String>): String {
 
 
 /**
- * Returns the name of the monkey
+ * Returns the name of the monkey with the longest name
+ * from the given list of monkeys
  */
 fun longestMonkeyName(monkeyList: List<String>): String {
     // Loop through the list and find the longest name
